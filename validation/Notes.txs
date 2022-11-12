@@ -1,0 +1,9 @@
+
+//validation using formik and yup packages
+//defne all the input fields initialvalues
+//create an schema file use validation
+//import useFormik and use initialvalues, and schemafiles
+validationSchema is built-in fun of formik 
+//use validationSchema:schemafiles
+//all the fun like onChane , onBlur, handlesubmit, values are the built in fun 
+//just use them 
